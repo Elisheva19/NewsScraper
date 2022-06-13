@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsScraper.Web", "NewsScraper.Web\NewsScraper.Web.csproj", "{7624FF53-0634-4CB0-97FA-689D8B0D003A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsScraper.Scraping", "NewsScraper.Data\NewsScraper.Scraping.csproj", "{8AC26D29-BE27-4F45-8B57-BDF7DF86927C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7624FF53-0634-4CB0-97FA-689D8B0D003A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7624FF53-0634-4CB0-97FA-689D8B0D003A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7624FF53-0634-4CB0-97FA-689D8B0D003A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7624FF53-0634-4CB0-97FA-689D8B0D003A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC26D29-BE27-4F45-8B57-BDF7DF86927C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC26D29-BE27-4F45-8B57-BDF7DF86927C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC26D29-BE27-4F45-8B57-BDF7DF86927C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC26D29-BE27-4F45-8B57-BDF7DF86927C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7C5408-CAED-4A75-8D19-1FEFAD3A5FAB}
+	EndGlobalSection
+EndGlobal
